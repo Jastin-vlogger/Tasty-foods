@@ -28,12 +28,12 @@ p{
 }
 @media(max-width:576px),(max-width:768px){
     .card{
-        width: 16rem !important;
+        width: 20rem !important;
     }
 }
 @media(max-width:440px){
     .card{
-        width: 14rem !important;
+        width: 18rem !important;
     }
 
 }
